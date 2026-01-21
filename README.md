@@ -30,6 +30,3 @@ Simon Says is a classic memory-based game where players must repeat an increasin
 - HTML
 - CSS
 - JavaScript
-## Getting Started
-
-### Cl
